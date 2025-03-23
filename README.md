@@ -1,15 +1,10 @@
 # Fibonacci Sequence with Earlang
 # Overview
+Something we here as programmers is the great work "specializing" and usually when you specialize in something you lost opportunity to see and learn new alternatives about how to solve the same kind of problems. Maybe you have always worked with OOP (Object Oriented Programming), using mostly Python, Java and ther OPP programming languages, however, even if you are just starting with a OOP language or have many years specializing on it, you will find useful dedicate sometime to understand Erlang. Erlang is a functional programming language similar to Haskell, but what makes Erlang so interesting is how processes manipulation require strictly each function or process acts as an independent body who can only interact with others by passing messages (or values) to each other. [Every communication is explicit, traceable and safe](https://learnyousomeerlang.com/introduction#what-is-erlang).
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The purpose of this repository is provide you an easy starting point to learn of how to write, compile and run Erlang programs by providing you a working solution for one of the most common excercises when studyig recurssion, the Fibonacci Sequence.
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Erlang and Fibonacci](https://youtu.be/xqytuu0b_bY)
 
 # Development Environment
 
