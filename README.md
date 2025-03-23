@@ -8,11 +8,11 @@ The purpose of this repository is provide you an easy starting point to learn of
 
 # Development Environment
 
-Editor: Visual studio Code
-Programming Language: Earlang/OTP 27.4
-Libraries: OTP 
+- Editor: Visual studio Code
+- Programming Language: Earlang 27.4
+- Libraries: OTP 
 
-Note: OTP is the default set of libraries used by Earlang to work and is downloaded with the installation of the language.
+Note: OTP is the default set of libraries used by Earlang to work and is downloaded during the installation of the language.
 
 # Useful Websites
 
